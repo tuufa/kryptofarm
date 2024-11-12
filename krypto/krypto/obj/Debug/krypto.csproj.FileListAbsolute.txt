@@ -1,0 +1,11 @@
+D:\вумип\OOPC++\krypto\krypto\bin\Debug\krypto.exe.config
+D:\вумип\OOPC++\krypto\krypto\bin\Debug\krypto.exe
+D:\вумип\OOPC++\krypto\krypto\bin\Debug\krypto.pdb
+D:\вумип\OOPC++\krypto\krypto\obj\Debug\krypto.csproj.AssemblyReference.cache
+D:\вумип\OOPC++\krypto\krypto\obj\Debug\krypto.csproj.SuggestedBindingRedirects.cache
+D:\вумип\OOPC++\krypto\krypto\obj\Debug\krypto.Form1.resources
+D:\вумип\OOPC++\krypto\krypto\obj\Debug\krypto.Properties.Resources.resources
+D:\вумип\OOPC++\krypto\krypto\obj\Debug\krypto.csproj.GenerateResource.cache
+D:\вумип\OOPC++\krypto\krypto\obj\Debug\krypto.csproj.CoreCompileInputs.cache
+D:\вумип\OOPC++\krypto\krypto\obj\Debug\krypto.exe
+D:\вумип\OOPC++\krypto\krypto\obj\Debug\krypto.pdb
